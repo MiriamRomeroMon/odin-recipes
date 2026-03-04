@@ -1,0 +1,2 @@
+The Odin Recipes:
+    In this project, I reinforce the basic structure of HTML by creating a recipe website. The project reviews the fundamentals, such as: headings, paragraphs, basic structure, bold text, lists (ordered and unordered), links between HTML files, and images.
