@@ -5,6 +5,8 @@
 body {
     background-color:rgb(176, 189, 189);
     padding: 20px;
+    width: 600px;
+    margin: 16px auto;
 }
 
 .container {
@@ -18,6 +20,23 @@ body {
     padding: 8px;
 }
 
+.subtitle {
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    margin: 8px;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(88, 88, 104);
+    padding: 8px;
+}
+
+li{
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(88, 88, 104);
+    padding: 3px;
+}
 .dot {
     font-family:'Courier New', Courier, monospace;
     color: white;
@@ -31,5 +50,10 @@ body {
 
 .anchor:hover {
     color: black;
+}
+
+img {
+    margin: 16px auto;
+    width: auto;
 }
 
