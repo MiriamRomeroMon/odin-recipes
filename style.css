@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(176, 189, 189);
+    padding: 20px;
+}
+
+.container {
+    width: 400px;
+    margin: 16px auto;
+}
+
+.title {
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(64, 138, 202);
+    padding: 8px;
+}
+
+.dot {
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
+
+.anchor {
+    color: white;
+}
+
+.anchor:hover {
+    color: black;
+}
+
